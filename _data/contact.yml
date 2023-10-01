@@ -2,9 +2,11 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://www.linkedin.com/in/hanndoddi/' 
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url:  'https://www.linkedin.com/in/hanndoddi/' 
 
 - type: email
   icon: "fas fa-envelope"
