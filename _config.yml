@@ -29,10 +29,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://hanndoddi.github.io/resources-litragear/"
 
 github:
-  username: github_username # change to your github username
+  username: github_hanndoddi # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: twitter_hanndoddi # change to your twitter username
 
 social:
   # Change to your full name.
