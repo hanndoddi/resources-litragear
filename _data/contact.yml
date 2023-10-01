@@ -22,6 +22,10 @@
 - type: linkedin
   icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
   url:  "https://www.linkedin.com/in/hanndoddi/"                  # Fill with your Linkedin homepage
+
+- type: instagram
+  icon: "fab fa-instagram"   # icons powered by <https://fontawesome.com/>
+  url:  "https://www.instagram.com/hanndoddi/"                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
