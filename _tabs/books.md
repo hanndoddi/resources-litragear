@@ -13,7 +13,7 @@ Here are my books
 Here are my top books
 ### Every Tool's a Hammer
 
-![hammer](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555856209i/43319933.jpg){: width="972" height="589" .w-50 .left}
+![hammer](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555856209i/43319933.jpg){: width="486" height="294" .w-50 .left}
 In this New York Times bestselling “imperative how-to for creativity” (Nick Offerman), Adam Savage—star of Discovery Channel’s Mythbusters—shares his golden rules of creativity, from finding inspiration to following through and successfully making your idea a reality.
 Every Tool’s a Hammer is a chronicle of my life as a maker. It’s an exploration of making, but it’s also a permission slip of sorts from me to you. Permission to grab hold of the things you’re interested in, that fascinate you, and to dive deeper into them to see where they lead you.
 
